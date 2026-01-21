@@ -6,7 +6,7 @@
   "scripts": {
     "test": "cypress run",
     "cypress:open": "cypress open",
-    "test:login": "cypress run --spec cypress/e2e/login.cy.js"
+    "test:login": "cypress run --spec cypress/e2e/01_login.cy.js"
   },
   "keywords": [],
   "author": "",
